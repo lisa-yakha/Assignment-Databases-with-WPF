@@ -1,0 +1,19 @@
+﻿<Window x:Class="NeigbourhoodManagementWPF.UpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NeigbourhoodManagementWPF"
+        mc:Ignorable="d"
+        Title="UpdateWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="456" FontSize="36"><Run Language="de-de" Text="Update complaint status"/></TextBlock>
+        <TextBox x:Name ="InputID" HorizontalAlignment="Left" Margin="400,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="271" Height="38" RenderTransformOrigin="2.34,1.923"/>
+        <Label Content="Complaint ID" HorizontalAlignment="Left" Margin="159,150,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.933,-0.284" Height="38" Width="144" FontSize="22"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="582,341,0,0" VerticalAlignment="Top" Height="55" Width="194" Click="Button_Click" FontSize="36"/>
+        <Label Content="New complaint status" HorizontalAlignment="Left" Margin="157,243,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.933,-0.284" Height="46" Width="229" FontSize="22"/>
+        <ComboBox x:Name="ComplaintStatus" HorizontalAlignment="Left" Margin="400,247,0,0" VerticalAlignment="Top" Width="151" Height="38" SelectionChanged="ComplaintCategory_SelectionChanged" RenderTransformOrigin="0.518,0.542"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="NeigbourhoodManagementWPF.ByNameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NeigbourhoodManagementWPF"
+        mc:Ignorable="d"
+        Title="ByNameWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="DataGridComplaints" AutoGenerateColumns="True" Margin="10,217,10,10"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="53" Width="455" FontSize="36"><Run Language="de-de" Text="Search complaints by name"/></TextBlock>
+        <TextBox x:Name ="InputName" HorizontalAlignment="Left" Margin="132,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204" Height="26" TextChanged="InputName_TextChanged"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="69,121,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.933,-0.284" Height="40" Width="84" FontSize="18"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="521,128,0,0" VerticalAlignment="Top" Height="26" Width="165" Click="Button_Click"/>
+
+
+    </Grid>
+</Window>

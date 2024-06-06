@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Complaints] (Table)
+       [dbo].[INSERT_Complaint] (Procedure)
+       [dbo].[RETRIEVE_ComplaintsByDate] (Procedure)
+       [dbo].[RETRIEVE_ComplaintsByNameOfAuthor] (Procedure)
+       [dbo].[UPDATE_ComplaintStatus] (Procedure)
+
+** Supporting actions

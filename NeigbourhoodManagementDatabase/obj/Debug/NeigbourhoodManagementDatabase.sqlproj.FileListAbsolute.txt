@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.dacpac
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.dll
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.pdb
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.sqlproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.dll
+C:\Users\user\Desktop\C#\01_NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.pdb
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.dacpac
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.dll
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\bin\Debug\NeigbourhoodManagementDatabase.pdb
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.sqlproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.dll
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\NeigbourhoodManagementDatabase.pdb
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\Model.xml
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\refactor.xml
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\postdeploy.sql
+C:\Users\user\Desktop\C#\00_NeigbourhoodManagement\NeigbourhoodManagementDatabase\obj\Debug\predeploy.sql

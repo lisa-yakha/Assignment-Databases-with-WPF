@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Complaints]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Complaints].[NameOfAuhor] is being dropped, data loss could occur.
+       The column [dbo].[Complaints].[NameOfAuthor] on table [dbo].[Complaints] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Recreate table
+       [dbo].[Complaints] (Table)
+     Alter
+       [dbo].[INSERT_Complaint] (Procedure)
+       [dbo].[RETRIEVE_ComplaintsByDate] (Procedure)
+       [dbo].[RETRIEVE_ComplaintsByNameOfAuthor] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[UPDATE_ComplaintStatus] (Procedure)
+
+The column [dbo].[Complaints].[NameOfAuhor] is being dropped, data loss could occur.
+The column [dbo].[Complaints].[NameOfAuthor] on table [dbo].[Complaints] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+
